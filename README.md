@@ -87,6 +87,3 @@ The pipeline automatically downloads the required validation splits via HuggingF
 Ahsan Farabi, Israt Khandaker, Md Abdul Ahad Minhaz, Meem, Shanto, and Shariar Mahmud. 2026. GreenSwap: Verb Choice or Output Length? A Controlled Decomposition of Prompt-Level Energy Savings in LLM Inference.
 ```
 
-```
-
-```
